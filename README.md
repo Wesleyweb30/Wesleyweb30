@@ -1,4 +1,4 @@
-### Olá! Eu sou Wesley Luan 🫡
+### Hi! I am Wesley Luan 🫡
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesley-luan-714a642a1/)
 
